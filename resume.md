@@ -60,7 +60,7 @@ Fast - National University of Computer and Emerging Sciences (NUCES) <br>
 
 ---
 
-### Languages
+### Programming Languages
 ```
 - C/C++
 - Python
@@ -75,12 +75,12 @@ Fast - National University of Computer and Emerging Sciences (NUCES) <br>
 - Electron
 ```
 
-### Linux
+### Operating Systems
 ```
-- Bash Scripting
 - Arch
 - Ubuntu
 - Red Hat
+- Windows
 ```
 
 ### Blue Teaming
@@ -100,26 +100,12 @@ Fast - National University of Computer and Emerging Sciences (NUCES) <br>
 - Volatility
 - Autopsy
 ```
-> #### Others
-```
-- Trivy
-- ModSecurity
-```
-
-### Static Source Code Analysis
+> #### Static Source Code Analysis
 ```
 - Snyk
 - SonarQube
 ```
-
-### Reverse Engineering
-```
-- GDB
-- Ghidra
-- Immunity Debugger
-```
-
-### Malware Analysis
+> #### Malware Analysis
 ```
 - Yara
 - CFF Explorer
@@ -127,8 +113,20 @@ Fast - National University of Computer and Emerging Sciences (NUCES) <br>
 - HashCalc
 - Exeinfo PE
 ```
+> #### Others
+```
+- Trivy
+- ModSecurity
+```
 
-### Web Pentesting
+### Ethical Hacking & Penetration Testing
+> #### Reverse Engineering
+```
+- GDB
+- Ghidra
+- Immunity Debugger
+```
+> #### Web Pentesting
 ```
 - Burp Suite
 - OWASP ZAP
@@ -138,29 +136,25 @@ Fast - National University of Computer and Emerging Sciences (NUCES) <br>
 - Nikto
 - Nessus
 ```
-
-### Network Pentesting
+> #### Network Pentesting
 ```
 - Aircrack-ng
 - Wireshark
 - NetworkMiner
 - Bettercap
 ```
-
-### Operating System Pentesting
+> #### Operating System Pentesting
 ```
 - Nmap
 - Metasploit
 ```
-
-### Password Cracking
+> #### Password Cracking
 ```
 - JohnTheRipper
 - Hashcat
 - Hydra
 ```
-
-### OSINT
+> #### OSINT
 ```
 - Maltego
 - Google Dorks
