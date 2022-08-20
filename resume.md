@@ -13,11 +13,15 @@ layout: default
 - A highly motivated, passionate cyber-security individual and developer, eager to learn new things.
 - Future 0day researcher.
 - Loves to participate in CTF events.
-****************************************************************************************
+
+---
+
 ```
 \0X74\0X6E\0X65\0X6D\0X70\0X6F\0X6C\0X65\0X76\0X65\0X44\0X20\0X74\0X69\0X6F\0X6C\0X70\0X78\0X45\0X20\0X6E\0X69\0X20\0X74\0X73\0X65\0X72\0X65\0X74\0X6E\0X49\0X20\0X74\0X61\0X65\0X72\0X47\0X20\0X67\0X6E\0X69\0X76\0X61\0x48
 ```
-****************************************************************************************
+
+---
+
 <br><br>
 
 ## **Education**
@@ -64,16 +68,13 @@ Fast - National University of Computer and Emerging Sciences (NUCES) <br>
 - JavaScript
 - TypeScript
 ```
+
 ### Frameworks
 ```
 - ReactJS
-- Ionic
-- Firebase
-- Django
-- Flask
-- Docker
 - Electron
 ```
+
 ### Linux
 ```
 - Bash Scripting
@@ -81,6 +82,7 @@ Fast - National University of Computer and Emerging Sciences (NUCES) <br>
 - Ubuntu
 - Red Hat
 ```
+
 ### Blue Teaming
 > #### IDS/IPS
 ```
@@ -103,17 +105,20 @@ Fast - National University of Computer and Emerging Sciences (NUCES) <br>
 - Trivy
 - ModSecurity
 ```
+
 ### Static Source Code Analysis
 ```
 - Snyk
 - SonarQube
 ```
+
 ### Reverse Engineering
 ```
 - GDB
 - Ghidra
 - Immunity Debugger
 ```
+
 ### Malware Analysis
 ```
 - Yara
@@ -122,6 +127,7 @@ Fast - National University of Computer and Emerging Sciences (NUCES) <br>
 - HashCalc
 - Exeinfo PE
 ```
+
 ### Web Pentesting
 ```
 - Burp Suite
@@ -132,6 +138,7 @@ Fast - National University of Computer and Emerging Sciences (NUCES) <br>
 - Nikto
 - Nessus
 ```
+
 ### Network Pentesting
 ```
 - Aircrack-ng
@@ -139,17 +146,20 @@ Fast - National University of Computer and Emerging Sciences (NUCES) <br>
 - NetworkMiner
 - Bettercap
 ```
+
 ### Operating System Pentesting
 ```
 - Nmap
 - Metasploit
 ```
+
 ### Password Cracking
 ```
 - JohnTheRipper
 - Hashcat
 - Hydra
 ```
+
 ### OSINT
 ```
 - Maltego
