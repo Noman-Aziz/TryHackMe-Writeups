@@ -10,9 +10,10 @@ layout: default
 
 ---
 
-- A highly motivated, passionate cyber-security individual and developer, eager to learn new things.
+- A highly motivated, passionate cyber-security individual and developer, eager to learn new things
+- Loves to configure things in an automated and secure manner
 - Future 0day researcher.
-- Loves to participate in CTF events.
+- Likes to participate in CTF events.
 
 ---
 
@@ -81,6 +82,59 @@ Fast - National University of Computer and Emerging Sciences (NUCES) <br>
 - Ubuntu
 - Red Hat
 - Windows
+```
+
+### DevSecOps
+> #### Cloud Providers
+```
+- Amazon Web Services (AWS)
+- Google Cloud Platform (GCP)
+```
+> #### Containerization Tools
+```
+- Docker
+- LXC
+```
+> #### Container Orchestration Tools
+```
+- Kubernetes
+    - Deployments
+    - Pods
+    - ConfigMaps & Secrets
+    - Volumes
+    - Stateful Sets
+    - Bare Metal Load Balancers
+    - Helm
+    - Helm Charts
+```
+> #### Logging & Monitoring
+```
+- ELK Stack
+- Prometheus
+- Grafana
+- AlertManager
+- Docker Events
+```
+> #### CI/CD Tools
+```
+- Github Actions
+- GitLab
+- Jenkins
+- Hashicorp Vault
+```
+> #### Security Tools
+```
+- Snyk
+- SonarQube
+- MobSf
+```
+> #### Others
+```
+- Nginx
+- LoadBalancers
+- Proxmox
+- MikroTik RouterOS
+- VPNs
 ```
 
 ### Blue Teaming
@@ -231,10 +285,12 @@ Developing an Automated Penetration Testing software for my FYP.
 ##### (July 2022 – Present) | Islamabad <br>
 ```
 - Actively securing the infrastructure using Firewall/IDS/IPS/SIEM systems (PfSense, Suricata, Wazuh, etc.)
-- Configuring and managing the network infrastructure (MikroTik RouterOS, VPNs, etc.)
-- Configuring, managing and deploying servers and containers (Proxmox, Docker, etc.) 
+- Configuring and managing local network infrastructure (MikroTik RouterOS, VPNs, etc.)
+- Configuring and managing Cloud Environments (AWS, GCP)
+- Configuring, managing and deploying servers and containers (Proxmox, Docker, etc.)
+- Ensuring high availability of servers and containers (Kubernetes, LoadBalancers, etc.)
 - Configuring and deploying monitoring and alerting systems for severs and containers (Prometheus, Grafana, AlertManager, ELK Stack, etc.)
-- CI/CD Pipelines Deployment (Github Actions)
+- CI/CD Pipelines Configuration (Github Actions, GitLab, Jenkins, HashiCorp Vault)
 - Blockchain Nodes & Validators Deployment
 - Vulnerability Assessment of Web Applications and Mobile Applications 
 - Source code Auditing (Snyk, SonarQube, Custom Scripts, etc.)
@@ -340,5 +396,5 @@ Used Python's Frameworks
 <br><br>
 
 <div class="date">
-Updated on August 20, 2022
+Updated on September 11, 2022
 </div>
