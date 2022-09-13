@@ -2,9 +2,9 @@
 layout: default
 ---
 
-<div class="posts">
+<div class="blogs">
   {% for blog in site.blogs %}
-    <article class="post">
+    <article class="blog">
 
       <h1><a href="{{ site.baseurl }}{{ blog.url }}">{{ blog.title }}</a></h1>
 
