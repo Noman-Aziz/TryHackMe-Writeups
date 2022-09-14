@@ -14,11 +14,12 @@ layout: default
 
     <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
-  
-    
+
+
     <!-- added by dummys */ -->
     <div class="line-separator"></div>
-  
-    
+
+
     {% endfor %}
+
 </div>
