@@ -29,7 +29,7 @@ Reference : https://www.youtube.com/watch?v=X48VuDVv0do
 - New IP address on re-creation
   - E.g, DB dies and new DB is created which will get new IP address
 
-<img src="https://noman-aziz.github.io/resources/2022/K8-101/1/1.png" width="800">
+<img src="https://noman-aziz.github.io/resources/2022/K8-101/1/0.png" width="800">
 
 ### Service & Ingress
 
@@ -54,7 +54,7 @@ Reference : https://www.youtube.com/watch?v=X48VuDVv0do
 - Assigns a domain name and certificate to requests
 - Acts as a reverse proxy
 
-<img src="https://noman-aziz.github.io/resources/2022/K8-101/1/2.png" width="800">
+<img src="https://noman-aziz.github.io/resources/2022/K8-101/1/1.png" width="800">
 
 ### ConfigMap & Secret
 
@@ -69,7 +69,7 @@ Reference : https://www.youtube.com/watch?v=X48VuDVv0do
 
 - Thats where **ConfigMap** comes in, we can store such external configuration of our app and attach it to the pod
 
-<img src="https://noman-aziz.github.io/resources/2022/K8-101/1/3.png" width="800">
+<img src="https://noman-aziz.github.io/resources/2022/K8-101/1/2.png" width="800">
 
 #### Secret
 
@@ -107,8 +107,8 @@ Reference : https://www.youtube.com/watch?v=X48VuDVv0do
 - Deploying StatefulSet is not easy
 - DBs are often hosted outside of K8s cluster
 
-<img src="https://noman-aziz.github.io/resources/2022/K8-101/1/4.png" width="800">
+<img src="https://noman-aziz.github.io/resources/2022/K8-101/1/3.png" width="800">
 
 #### Layers of Abstraction
 
-<img src="https://noman-aziz.github.io/resources/2022/K8-101/1/5.png" width="800">
+<img src="https://noman-aziz.github.io/resources/2022/K8-101/1/4.png" width="800">
