@@ -57,6 +57,183 @@ Fast - National University of Computer and Emerging Sciences (NUCES) <br>
 ```
 <br><br>
 
+## **Experience**
+
+---
+
+### **[GenesisLab.com](https://www.linkedin.com/company/18526692)**
+#### DevSecOps Engineer
+##### (July 2022 – Present) | Islamabad <br>
+```
+- Actively securing the infrastructure using Firewall/IDS/IPS/SIEM systems (PfSense, Suricata, Wazuh, etc.)
+- Configuring and managing local network infrastructure (MikroTik RouterOS, VPNs, etc.)
+- Configuring and managing Cloud Environments (AWS, GCP)
+- Configuring, managing and deploying servers and containers (Proxmox, Docker, etc.)
+- Ensuring high availability of servers and containers (Kubernetes, LoadBalancers, etc.)
+- Configuring and deploying monitoring and alerting systems for severs and containers (Prometheus, Grafana, AlertManager, ELK Stack, etc.)
+- CI/CD Pipelines Configuration (Github Actions, GitLab, Jenkins, HashiCorp Vault)
+- Blockchain Nodes & Validators Deployment
+- Vulnerability Assessment of Web Applications and Mobile Applications 
+- Source code Auditing (Snyk, SonarQube, Custom Scripts, etc.)
+```
+
+#### Jr. Software Security Engineer
+##### (March 2022 – June 2022) | Islamabad <br>
+```
+- APIs Testing (Postman)
+- Secure Code Warrior Training (PseudoCode, Golang)
+- Automated Source Code Analysis using tools like Snyk, SonarQube, etc
+- Quality Assurance Testing (Manual, Cypress)
+- Vulnerability Assessment of Web & Mobile Apps
+```
+
+### **[Fast NUCES](https://www.linkedin.com/company/15096487)**
+#### Red Team Member
+##### Fast CyberSpace Legion - (Nov 2021 – Aug 2022) | Islamabad <br>
+```
+- Organized events and workshops to create awareness among students
+- Part of an amazing team which founded the first Cyber-Security Society in FAST NUCES Islamabad
+```
+
+#### Teaching Assistant
+##### (Feb 2022 - June 2022) | Islamabad <br>
+```
+TA for "Vulnerability Assessment & Reverse Engineering" Course.<br>
+```
+
+##### (Sep 2021 - Jan 2022) | Islamabad <br>
+```
+TA for "Operating Systems" course.
+```
+
+### **TryHackMe**
+#### CTF Player | [0xA] | Rooms Completed : 76 
+##### (Jun 2021 – Oct 2021) <br>
+```
+Utilized this platform to learn and polish my skills in penetration testing.
+```
+
+### **[Smart Livestock](https://www.smartlivestock.ee/)**
+#### Full Stack Developer 
+##### (Apr 2021 – Oct 2021) | Estonia <br>
+```
+Developed and deployed a full IoT system.
+- Website: WordPress
+- PWA: Ionic, React, Firebase
+- IoT Client: Microcontroller, Sensors
+- IoT Server: Raspberry Pi, Python
+```
+
+### **Fiverr**
+#### Automation and Data Collection
+##### (Jul 2019 - Sep 2020) <br>
+```
+Used Python's Frameworks
+- Scrapy
+- Selenium
+```
+<br><br>
+
+## **Certifications**
+
+---
+
+### AWS Certified Cloud Practitioner
+```
+- Issuer : AWS
+- Issued : August 18, 2022
+- Expiry : August 18, 2025
+- Verification URL : https://www.credly.com/badges/e1405364-8f68-4db9-8e6c-f9749052c526/public_url
+```
+
+### CCNA Cybersecurity Operations
+
+```
+- Issuer : Cisco
+- Issued : Sep 2019
+```
+
+### Offensive Pentesting Learning Path
+
+```
+- Issuer : TryHackMe
+- Issued : Sep 2021
+- Credential ID : THM-INVCZLVPS4 
+```
+
+### Linux Privilege Escalation for OSCP & Beyond!
+
+```
+- Issuer : Udemy
+- Issued : Sep 2021
+```
+
+### Web Fundamentals Learning Path
+
+```
+- Issuer : TryHackMe
+- Issued : Aug 2021
+- Credential ID : THM-CPVYEQ0GVZ 
+```
+<br><br>
+
+## **Accomplishments**
+
+---
+
+### Pakistan Cyber Security CTF Competition | NCSS | Air University Islamabad - 2022
+```
+- Secured **4th** position
+```
+
+### Hack The Box's CyberStarters CTF | Diary of Hackers #CyberStarters22 - 2022
+```
+- Secured **3rd** position worldwide
+```
+
+### NaSCon`22 CyberSecurity CTF | Fast NUCES Islamabad - 2022
+```
+- Secured **3rd** position
+```
+
+### Ignite Cyber Digital Hackathon | Comsats Islamabad - 2021
+```
+- Got **6th/45** position in Application Exploitation (Including Web)
+- Got **4th/35** position in Speed Programming
+```
+<br><br>
+
+## **Projects**
+
+---
+
+### Penetrato - Automated Penetration Testing Software <br>
+Developing an Automated Penetration Testing software for my FYP.
+#### Core Modules
+```
+- Vulnerability Scanner
+- Remote Code Execution Vulnerabilities Exploiter
+- Post Exploitation and Privilege Escalator
+- Report Generator
+```
+#### Tech Stack
+```
+- Frontend : React JS, Material UI
+- Backend : Golang
+- Deployment : Docker
+```
+#### Tools Used
+```
+- Nmap, Masscan, Metasploit
+```
+### End-to-End Encrypted Private Chat Application ([Golang](https://github.com/Noman-Aziz/E2E-Chat-App))
+```
+- It uses RSA-3072 bit algorithm for Symmetric Key Exchange.
+- It uses AES-128 bit ECB Mode for Secure Communication after AES Key Exchange
+- It uses SHA-512 algorithm for Hashing
+```
+<br><br>
+
 ## **Skills**
 
 ---
@@ -217,183 +394,6 @@ Fast - National University of Computer and Emerging Sciences (NUCES) <br>
 - TheHarvester
 ```
 
-<br><br>
-
-## **Accomplishments**
-
----
-
-### Pakistan Cyber Security CTF Competition | NCSS | Air University Islamabad - 2022
-```
-- Secured **4th** position
-```
-
-### Hack The Box's CyberStarters CTF | Diary of Hackers #CyberStarters22 - 2022
-```
-- Secured **3rd** position worldwide
-```
-
-### NaSCon`22 CyberSecurity CTF | Fast NUCES Islamabad - 2022
-```
-- Secured **3rd** position
-```
-
-### Ignite Cyber Digital Hackathon | Comsats Islamabad - 2021
-```
-- Got **6th/45** position in Application Exploitation (Including Web)
-- Got **4th/35** position in Speed Programming
-```
-<br><br>
-
-## **Projects**
-
----
-
-### Penetrato - Automated Penetration Testing Software <br>
-Developing an Automated Penetration Testing software for my FYP.
-#### Core Modules
-```
-- Vulnerability Scanner
-- Remote Code Execution Vulnerabilities Exploiter
-- Post Exploitation and Privilege Escalator
-- Report Generator
-```
-#### Tech Stack
-```
-- Frontend : React JS, Material UI
-- Backend : Golang
-- Deployment : Docker
-```
-#### Tools Used
-```
-- Nmap, Masscan, Metasploit
-```
-### End-to-End Encrypted Private Chat Application ([Golang](https://github.com/Noman-Aziz/E2E-Chat-App))
-```
-- It uses RSA-3072 bit algorithm for Symmetric Key Exchange.
-- It uses AES-128 bit ECB Mode for Secure Communication after AES Key Exchange
-- It uses SHA-512 algorithm for Hashing
-```
-<br><br>
-
-## **Experience**
-
----
-
-### **[GenesisLab.com](https://www.linkedin.com/company/18526692)**
-#### DevSecOps Engineer
-##### (July 2022 – Present) | Islamabad <br>
-```
-- Actively securing the infrastructure using Firewall/IDS/IPS/SIEM systems (PfSense, Suricata, Wazuh, etc.)
-- Configuring and managing local network infrastructure (MikroTik RouterOS, VPNs, etc.)
-- Configuring and managing Cloud Environments (AWS, GCP)
-- Configuring, managing and deploying servers and containers (Proxmox, Docker, etc.)
-- Ensuring high availability of servers and containers (Kubernetes, LoadBalancers, etc.)
-- Configuring and deploying monitoring and alerting systems for severs and containers (Prometheus, Grafana, AlertManager, ELK Stack, etc.)
-- CI/CD Pipelines Configuration (Github Actions, GitLab, Jenkins, HashiCorp Vault)
-- Blockchain Nodes & Validators Deployment
-- Vulnerability Assessment of Web Applications and Mobile Applications 
-- Source code Auditing (Snyk, SonarQube, Custom Scripts, etc.)
-```
-
-#### Jr. Software Security Engineer
-##### (March 2022 – June 2022) | Islamabad <br>
-```
-- APIs Testing (Postman)
-- Secure Code Warrior Training (PseudoCode, Golang)
-- Automated Source Code Analysis using tools like Snyk, SonarQube, etc
-- Quality Assurance Testing (Manual, Cypress)
-- Vulnerability Assessment of Web & Mobile Apps
-```
-
-### **[Fast NUCES](https://www.linkedin.com/company/15096487)**
-#### Red Team Member
-##### Fast CyberSpace Legion - (Nov 2021 – Aug 2022) | Islamabad <br>
-```
-- Organized events and workshops to create awareness among students
-- Part of an amazing team which founded the first Cyber-Security Society in FAST NUCES Islamabad
-```
-
-#### Teaching Assistant
-##### (Feb 2022 - June 2022) | Islamabad <br>
-```
-TA for "Vulnerability Assessment & Reverse Engineering" Course.<br>
-```
-
-##### (Sep 2021 - Jan 2022) | Islamabad <br>
-```
-TA for "Operating Systems" course.
-```
-
-### **TryHackMe**
-#### CTF Player | [0xA] | Rooms Completed : 76 
-##### (Jun 2021 – Oct 2021) <br>
-```
-Utilized this platform to learn and polish my skills in penetration testing.
-```
-
-### **[Smart Livestock](https://www.smartlivestock.ee/)**
-#### Full Stack Developer 
-##### (Apr 2021 – Oct 2021) | Estonia <br>
-```
-Developed and deployed a full IoT system.
-- Website: WordPress
-- PWA: Ionic, React, Firebase
-- IoT Client: Microcontroller, Sensors
-- IoT Server: Raspberry Pi, Python
-```
-
-### **Fiverr**
-#### Automation and Data Collection
-##### (Jul 2019 - Sep 2020) <br>
-```
-Used Python's Frameworks
-- Scrapy
-- Selenium
-```
-<br><br>
-
-## **Certifications**
-
----
-
-### AWS Certified Cloud Practitioner
-```
-- Issuer : AWS
-- Issued : August 18, 2022
-- Expiry : August 18, 2025
-- Verification URL : https://www.credly.com/badges/e1405364-8f68-4db9-8e6c-f9749052c526/public_url
-```
-
-### CCNA Cybersecurity Operations
-
-```
-- Issuer : Cisco
-- Issued : Sep 2019
-```
-
-### Offensive Pentesting Learning Path
-
-```
-- Issuer : TryHackMe
-- Issued : Sep 2021
-- Credential ID : THM-INVCZLVPS4 
-```
-
-### Linux Privilege Escalation for OSCP & Beyond!
-
-```
-- Issuer : Udemy
-- Issued : Sep 2021
-```
-
-### Web Fundamentals Learning Path
-
-```
-- Issuer : TryHackMe
-- Issued : Aug 2021
-- Credential ID : THM-CPVYEQ0GVZ 
-```
 <br><br>
 
 <div class="date">
