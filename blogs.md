@@ -1,18 +1,18 @@
 ---
-layout: blog
+layout: default
 ---
 
-<div class="posts">
-  {% for blog in site.blogs %}
-    <article class="post">
+<div class="blogs">
+  {% for post in site.posts %}
+    <article class="blog">
 
-      <h1><a href="{{ site.baseurl }}{{ blog.url }}">{{ blog.title }}</a></h1>
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
       <div class="entry">
-        {{ blog.excerpt }}
+        {{ post.excerpt }}
       </div>
 
-    <a href="{{ site.baseurl }}{{ blog.url }}" class="read-more">Read More</a>
+    <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
 
 
