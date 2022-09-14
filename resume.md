@@ -280,8 +280,8 @@ Developing an Automated Penetration Testing software for my FYP.
 
 ---
 
-### **RNS Solutions**
-#### Software Security Engineer
+### **[GenesisLab.com](https://www.linkedin.com/company/18526692)**
+#### DevSecOps Engineer
 ##### (July 2022 – Present) | Islamabad <br>
 ```
 - Actively securing the infrastructure using Firewall/IDS/IPS/SIEM systems (PfSense, Suricata, Wazuh, etc.)
@@ -301,16 +301,17 @@ Developing an Automated Penetration Testing software for my FYP.
 ```
 - APIs Testing (Postman)
 - Secure Code Warrior Training (PseudoCode, Golang)
-- Automated Source Code Analysis using tools like Snyk, SonarQube, etc.
+- Automated Source Code Analysis using tools like Snyk, SonarQube, etc
 - Quality Assurance Testing (Manual, Cypress)
 - Vulnerability Assessment of Web & Mobile Apps
 ```
 
-### **Fast NUCES**
+### **[Fast NUCES](https://www.linkedin.com/company/15096487)**
 #### Red Team Member
-##### Fast CyberSpace Legion - (Oct 2021 – June 2022) | Islamabad <br>
+##### Fast CyberSpace Legion - (Nov 2021 – Aug 2022) | Islamabad <br>
 ```
-Organizing events and workshops to create awareness among students.
+- Organized events and workshops to create awareness among students
+- Part of an amazing team which founded the first Cyber-Security Society in FAST NUCES Islamabad
 ```
 
 #### Teaching Assistant
@@ -319,7 +320,7 @@ Organizing events and workshops to create awareness among students.
 TA for "Vulnerability Assessment & Reverse Engineering" Course.<br>
 ```
 
-##### (Sep 2021 - Jan 2022) | Islamabad** <br>
+##### (Sep 2021 - Jan 2022) | Islamabad <br>
 ```
 TA for "Operating Systems" course.
 ```
@@ -396,5 +397,5 @@ Used Python's Frameworks
 <br><br>
 
 <div class="date">
-Updated on September 11, 2022
+Updated on September 14, 2022
 </div>
