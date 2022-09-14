@@ -2,6 +2,9 @@
 layout: post
 title: "Kubernetes 101"
 category: blogs
+mathjax: true
+
+date: 2022-09-14
 ---
 
 _K8 is an open source container orchestration tool developed by Google which helps you manage containerized applications in different deployment environments like physical, virtual, cloud or hybrid etc._
@@ -10,7 +13,7 @@ _K8 is an open source container orchestration tool developed by Google which hel
 
 <div class="posts">
   {% for post in site.posts %}
-    {% if post.categories contains 'k8-blogs' %}
+    {% if post.categories contains 'kubernetes-101' %}
 
     <article class="post">
 
