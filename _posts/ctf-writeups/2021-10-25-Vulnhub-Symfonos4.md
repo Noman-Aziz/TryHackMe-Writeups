@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vulnhub - Symfonos4"
-category: ctf-writeups
+category: writeups
 mathjax: true
 
 date: 2021-10-25

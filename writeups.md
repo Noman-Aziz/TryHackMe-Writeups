@@ -1,11 +1,13 @@
 ---
 layout: default
-title: CTF-Writeups
-category: ctf-writeups
+title: CTF Writeups
+category: writeups
 ---
 
 <div class="posts">
   {% for post in site.posts %}
+    {% if post.categories contains 'writeups' %}
+
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
@@ -21,7 +23,7 @@ category: ctf-writeups
     <!-- added by dummys */ -->
     <div class="line-separator"></div>
 
-
+    {% endif %}
     {% endfor %}
 
 </div>
