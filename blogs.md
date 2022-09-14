@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="blogs">
-  {% for post in site.posts %}
+  {% for post in site.blogs %}
     <article class="blog">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
