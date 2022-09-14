@@ -4,6 +4,14 @@ title: CTF Writeups
 category: writeups
 ---
 
+<body>
+  <header>
+    <div class="container">
+      <h3><center><script src="https://tryhackme.com/badge/514120"></script></center></h3>
+    </div>
+  </header>
+</body>
+
 <div class="posts">
   {% for post in site.posts %}
     {% if post.categories contains 'writeups' %}
