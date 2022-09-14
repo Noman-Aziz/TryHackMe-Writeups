@@ -106,7 +106,7 @@ TA for "Vulnerability Assessment & Reverse Engineering" Course.<br>
 TA for "Operating Systems" course.
 ```
 
-### **TryHackMe**
+### **[TryHackMe](https://tryhackme.com/)**
 #### CTF Player | [0xA] | Rooms Completed : 76 
 ##### (Jun 2021 – Oct 2021) <br>
 ```
@@ -124,7 +124,7 @@ Developed and deployed a full IoT system.
 - IoT Server: Raspberry Pi, Python
 ```
 
-### **Fiverr**
+### **[Fiverr](https://fiverr.com)**
 #### Automation and Data Collection
 ##### (Jul 2019 - Sep 2020) <br>
 ```
