@@ -1,15 +1,115 @@
 ---
 layout: post
-title: "Kubernetes 101"
+title: "K8 - Part 1 - Components"
 category: blogs
 mathjax: true
 
-date: 2022-09-14
+date: 2022-09-13
 ---
 
 _K8 is an open source container orchestration tool developed by Google which helps you manage containerized applications in different deployment environments like physical, virtual, cloud or hybrid etc._
 
 <!--more-->
 
-## Kubernetes-101
-Hello World
+## **Description**
+
+Series: Kubernetes - 101
+
+Part 1 : Components
+
+Reference : https://www.youtube.com/watch?v=X48VuDVv0do
+
+## **Details**
+
+### Pod
+
+- Smallest unit of K8s
+- Abstraction over container
+- Usually 1 application per Pod
+- Each Pod gets its own IP address
+- New IP address on re-creation
+  - E.g, DB dies and new DB is created which will get new IP address
+
+<img src="https://noman-aziz.github.io/resources/2022/K8-101/1/0.png" width="800">
+
+### Service & Ingress
+
+- Permenant IP address
+  - Can be attached to each pod
+- Lifecycle of Pod and Service are not connected
+  - If Pod dies then service and its ip remains
+
+#### External Service
+
+- Service which is accessible externally using url
+- Format of url is http://ip:port
+
+#### Internal Service
+
+- Service which should not be accessible externally
+- Have same format of url http://ip:port
+
+#### Ingress
+
+- Solves the problem of having static ip, port and protocol assigned to external services
+- Assigns a domain name and certificate to requests
+- Acts as a reverse proxy
+
+<img src="https://noman-aziz.github.io/resources/2022/K8-101/1/1.png" width="800">
+
+### ConfigMap & Secret
+
+#### ConfigMap
+
+##### Problem
+
+- Suppose DB url was configured inside my-app and its image was built and pushed to dockerhub
+- Now, the DB url gets changed and image must be modified, rebuilt and pushed to dockerhub then pulled into pod and restart
+
+##### Solution
+
+- Thats where **ConfigMap** comes in, we can store such external configuration of our app and attach it to the pod
+
+<img src="https://noman-aziz.github.io/resources/2022/K8-101/1/2.png" width="800">
+
+#### Secret
+
+- Works to solve similar problem as ConfigMap
+- ConfigMap stores configuration in plain text format so it should not be used to store secrets such as username, passwords, etc
+- Secret should be used instead
+- Things are stored in base64 encoded format
+- Built in security mechanism is not enabled by default
+
+### Volumes
+
+- Used for data storage, same concept as docker since k8s does not manage data persistance
+- Storage can be on **local** machine or **remote** storage outside of k8s cluster
+
+## Deployment & StatefulSet
+
+#### Deployment (Replication)
+
+- Solves the problem of single point of failure
+  - In case Pod dies
+- We replication everything on another node for fault tolerance or load balancer
+- Replica is connected to same service
+- We don't create another pod but define **blueprint** for pods
+- It is an abstraction layer on top of pods.
+- In practice deployment is used instead of pods.
+- **DBs can't be replicated via deployment**
+  - Because database has a state
+  - To avoid data inconsistencies
+- **Should be used for StateLess apps**
+
+#### StatefulSet
+
+- Solves the DB replication problem of Deployment
+- **Should be used for StateFul apps or Databases**
+- Deploying StatefulSet is not easy
+- DBs are often hosted outside of K8s cluster
+
+<img src="https://noman-aziz.github.io/resources/2022/K8-101/1/3.png" width="800">
+
+#### Layers of Abstraction
+
+<img src="https://noman-aziz.github.io/resources/2022/K8-101/1/4.png" width="800">
