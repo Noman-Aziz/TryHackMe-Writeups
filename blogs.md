@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Blogs
-category: blogs
 ---
 
 <div class="posts">

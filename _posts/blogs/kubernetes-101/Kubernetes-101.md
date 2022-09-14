@@ -1,11 +1,16 @@
 ---
-layout: default
-title: CTF Writeups
+layout: post
+title: "Kubernetes 101"
+category: blogs
 ---
+
+_K8 is an open source container orchestration tool developed by Google which helps you manage containerized applications in different deployment environments like physical, virtual, cloud or hybrid etc._
+
+<!--more-->
 
 <div class="posts">
   {% for post in site.posts %}
-    {% if post.categories contains 'writeups' %}
+    {% if post.categories contains 'k8-blogs' %}
 
     <article class="post">
 
