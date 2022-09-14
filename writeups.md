@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CTF-Writeups
-category: writeups
+category: ctf-writeups
 ---
 
 <div class="posts">

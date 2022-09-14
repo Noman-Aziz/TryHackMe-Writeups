@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Kubernetes 101 - Part 1 - Components"
+category: blogs
 mathjax: true
 
 date: 2022-09-13
